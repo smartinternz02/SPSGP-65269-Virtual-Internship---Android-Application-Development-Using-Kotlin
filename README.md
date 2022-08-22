@@ -14,7 +14,7 @@ Virtual Internship - Android Application Development Using Kotlin by SmartBridge
 </details>
 
 <details>
-    <summary><h3><i>Unit 1: Kotlin Basics!</i></h3></summary>
+    <summary><h3><i>Unit 2: Layouts!</i></h3></summary>
   
 - [Affirmations](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%202%20-%20Layouts/Affirmations.zip)
 - [Dogglers App](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%202%20-%20Layouts/Dogglers%20App.zip)

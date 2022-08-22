@@ -25,6 +25,14 @@ All Android Projects Module Wise
 - [Words App](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%202%20-%20Layouts/Words%20App.zip)
 </details>
 
+<details>
+    <summary><b>Unit 3: Navigation</b></summary>
+  
+- [Cupcake App](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%203%20-%20Navigation/Cupcake%20App.zip)
+- [Lunch Tray](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%203%20-%20Navigation/Lunch%20Tray.zip)
+</details>
+
+
 Thank You SmartBridge & GOOGLE!
 ------------
 

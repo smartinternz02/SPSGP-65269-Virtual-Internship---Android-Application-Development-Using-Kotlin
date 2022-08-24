@@ -32,6 +32,13 @@ All Android Projects Module Wise
 - [Lunch Tray](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%203%20-%20Navigation/Lunch%20Tray.zip)
 </details>
 
+<details>
+    <summary><b>Unit 4 - Connect to the Internet</b></summary>
+  
+- [Amphibians](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%204%20-%20Connect%20to%20the%20Internet/Amphibians.zip)
+- [MarsPhotos](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%204%20-%20Connect%20to%20the%20Internet/MarsPhotos.zip)
+</details>
+
 
 Thank You SmartBridge & GOOGLE!
 ------------

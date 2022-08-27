@@ -39,6 +39,18 @@ All Android Projects Module Wise
 - [MarsPhotos](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%204%20-%20Connect%20to%20the%20Internet/MarsPhotos.zip)
 </details>
 
+<details>
+    <summary><b>Unit 5: Data Persistence</b></summary>
+  
+- [Forage](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%205%20-%20Data%20Persistence/Forage%20App.zip)
+</details>
+
+<details>
+    <summary><b>Unit 6: WorkManager</b></summary>
+  
+- [Water Me](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Unit%206%20-%20WorkManager/Water%20Me%20App.zip)
+</details>
+
 
 Thank You SmartBridge & GOOGLE!
 ------------
